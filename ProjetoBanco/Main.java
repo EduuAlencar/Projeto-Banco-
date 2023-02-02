@@ -14,7 +14,7 @@ transferência, investir, consultar saldo.----------------------------------- ok
 Use a classe "Aplicacao" para criar seu método "main" e
 demonstrar o funcionamento do seu código.
 O projeto pode ser entregue via link de
-repositório Github, também no Class.
+repositório Github, também no Class...
 */
 
 import java.util.Random;
